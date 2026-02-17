@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Running on azure 🚀"
+    return "hadoop ugdx"
 
 if __name__ == "__main__":
     app.run()
